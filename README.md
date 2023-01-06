@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Deep </h1>
-<h3 align="center">I am an inquisitive Backend Developer who is lifelong keen on learning, implementing and working on different technologies.</h3>
+<h3 align="center">I am an inquisitive Backend Developer who is a keen lifelong learner and loves to understand, implement and work on different technologies.</h3>
 
 
 
