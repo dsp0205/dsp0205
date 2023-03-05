@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Deep </h1>
-<h3 align="center">I am an inquisitive Backend Software Developer who is a keen lifelong learner and loves to understand, implement and work on different technologies.</h3>
+<h3 align="center">I am actively looking/open for SDE roles. With skills in Java, Python, C, C++, Spring Boot, REST API and much more, I'm ready to dive into any project with enthusiasm and expertise. I am eager to take on new challenges and make my mark in the tech industry. I am a keen lifelong learner who loves to experiment and gain knowledge about different approaches to new tools/technologies in my free time</h3>
 
 
 
