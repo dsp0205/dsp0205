@@ -4,6 +4,7 @@
 
 
 - 👨‍💻 All of my project details are available [here](https://www.crio.do/learn/portfolio/deeppimpale67/)
+- Here is my personal portfolio website for AI content creation [here](https://deepinsights.framer.ai/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
